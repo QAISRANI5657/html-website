@@ -1,0 +1,14 @@
+body 
+{
+    background-color: gainsboro;
+}
+hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 2px;
+}
+
+h2,h3
+{
+    color:blueviolet;
+}
